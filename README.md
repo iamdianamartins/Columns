@@ -20,4 +20,4 @@ Criar um clone do clássico Columns em Pygame.
 - Pygame
 
 
-- Atualizado a última vez em 16/01/2022
+Atualizado a última vez em 17/01/2022
